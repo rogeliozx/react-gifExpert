@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test AddCategory should show render rigth 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h2>
+    Add Category
+  </h2>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+</form>
+`;
